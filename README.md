@@ -5,8 +5,10 @@ All locations are encoded by JUST ONE WORD (could be a compound or made-up word,
 Pay attention to KEYS. These are provided in the task text in cases when the author thinks you will really need them. A key is simply a hint towards the word logic (e.g., what type of word it is and so on). Completely clean game (no need to jump into high grass).
 
 ### Codes
-Andres, unless specified otherwise Encounter general convention is that codes are written with a black marker and have a prefix unique to the game. It's "W1" for this one is I recall correctly.  Sometimes the codes are written in places hard to find, but not this time.
-[Here is the example of the code](photos/code.jpeg).  
+Andres, unless specified otherwise Encounter general convention is that codes are written with a black marker and have a prefix unique to the game. It's "W1" for this one if I recall correctly.  Sometimes the codes are written in places hard to find, but not this time.
+[Here is an example of the code](photos/code.jpeg). \
+Google. ChatGPT etc. are allowed. It's a time-based competition, so mark your start and finish time.
+
 
 ## Levels
 
@@ -17,7 +19,7 @@ Code location: Nearest lamppost across the street
 
 
 ***Level 3***  
-Word: **Kebabless**
+Word: **Kebabless**  
 Code location: Nearby lamppost (near the trees)  
 [Location photo](photos/03.jpeg)
 
@@ -44,6 +46,7 @@ Code location: Lamppost near western side of bike parking opposite main entrance
 ***Level 7***  
 Word: **Gekko**  
 Code location: Roadsign near the road
+[Location photo](photos/07.jpeg)
 
 
 ***Level 8***  
