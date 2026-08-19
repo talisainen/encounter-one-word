@@ -45,8 +45,8 @@ Code location: Lamppost near western side of bike parking opposite main entrance
 
 ***Level 7***  
 Word: **Gekko**  
-Code location: Roadsign near the road
-[Location photo](photos/07.jpeg)
+Code location: Roadsign near the road  
+[Location photo](photos/07.jpg)
 
 
 ***Level 8***  
